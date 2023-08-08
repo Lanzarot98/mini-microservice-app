@@ -5,6 +5,7 @@
 /event-bus/node_modules
 /post/node_modules
 /query/node_modules
+/moderation/node_modules
 /.pnp
 .pnp.js
 
